@@ -4,6 +4,4 @@ Este script en Bash te permite crear usuarios en sistemas Linux de manera rápid
 # Requisitos
 Debes ejecutar el script con como usuario root o te saltara este error.
 
-<img src="https://postimg.cc/yWTrBYgL" width="200" height="200">
-
 [Git.png](https://postimg.cc/yWTrBYgL)
